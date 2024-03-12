@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Source\CPP\Fix_wing_PosController\build\CMakeFiles\b860d8678fa2979728bd0091f87add42\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Source\CPP\Fix_wing_PosController\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Source\CPP\Fix_wing_PosController\build\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0A9015B0-204E-3E0A-B54F-899278AB6032}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
